@@ -1,2 +1,3 @@
 # Basic Hospital Management System
 ...
+operator.cpp has the main function
